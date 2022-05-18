@@ -7,6 +7,7 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+
 <!-- badges: end -->
 
 The goal of utilitybeltuserinput is to provide robust, intuitive methods
@@ -18,7 +19,7 @@ input, rather than throwing an error.
 
 ## Installation
 
-You can install the development version of `utilitybeltuserinput` from
+You can install the development version of **utilitybeltuserinput** from
 [GitHub](https://github.com/) with:
 
 ``` r
