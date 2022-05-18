@@ -14,8 +14,7 @@ for collecting user input.
 
 Key differences to traditional methods like `askYesNo` is that here we
 will keep re-asking the question until the user gives a satisfactory
-input, rather than throwing an error. Also, we number all choices
-provided to make it easier for the end-user to specify their choices.
+input, rather than throwing an error.
 
 ## Installation
 
