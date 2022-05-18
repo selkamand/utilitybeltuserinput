@@ -18,7 +18,7 @@ input, rather than throwing an error.
 
 ## Installation
 
-You can install the development version of utilitybeltuserinput from
+You can install the development version of `utilitybeltuserinput` from
 [GitHub](https://github.com/) with:
 
 ``` r
